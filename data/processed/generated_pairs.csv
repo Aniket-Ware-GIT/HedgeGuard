@@ -1,0 +1,46 @@
+pair_id,source_group_id,source_sentence,summary_sentence,label,domain,generation_method,transformation_type,is_synthetic,annotation_notes
+f673c7707f34,G001,The software may restart during the update.,The software might restart during the update.,PRESERVED,technology,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+6a1486fcb57c,G001,The software may restart during the update.,The software restart during the update.,HARDENED,technology,controlled_rule,cue_removal,true,Synthetic; human review required.
+8fb2e89c8796,G002,The device is likely to overheat under sustained load.,The device is probably to overheat under sustained load.,PRESERVED,technology,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+8ac749c8a3e9,G002,The device is likely to overheat under sustained load.,The device is to overheat under sustained load.,HARDENED,technology,controlled_rule,cue_removal,true,Synthetic; human review required.
+de567eda7f60,G003,The sensor detected a temperature rise.,The sensor detected a temperature rise.,PRESERVED,technology,controlled_rule,identity,true,Synthetic; human review required.
+2f6fc3454334,G004,The treatment could reduce symptoms.,The treatment might reduce symptoms.,PRESERVED,health,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+24f7477866f1,G004,The treatment could reduce symptoms.,The treatment reduce symptoms.,HARDENED,health,controlled_rule,cue_removal,true,Synthetic; human review required.
+f9892514b86a,G005,The findings suggest that sleep affects recall.,The findings suggest that sleep affects recall.,PRESERVED,science,controlled_rule,identity,true,Synthetic; human review required.
+f8a9741b6d7a,G006,The pipeline failed after the update.,The pipeline failed after the update.,PRESERVED,technology,controlled_rule,identity,true,Synthetic; human review required.
+ac841a5673b8,G007,The battery appears to lose capacity in cold weather.,The battery seems to lose capacity in cold weather.,PRESERVED,technology,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+0b870f82feea,G007,The battery appears to lose capacity in cold weather.,The battery lose capacity in cold weather.,HARDENED,technology,controlled_rule,cue_removal,true,Synthetic; human review required.
+87c560b159b4,G008,The satellite might experience brief signal loss.,The satellite may experience brief signal loss.,PRESERVED,operations,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+abb1d87bee96,G008,The satellite might experience brief signal loss.,The satellite experience brief signal loss.,HARDENED,operations,controlled_rule,cue_removal,true,Synthetic; human review required.
+0407c8964871,G009,The new filter may reduce particulate levels.,The new filter might reduce particulate levels.,PRESERVED,environment,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+253439f58e1a,G009,The new filter may reduce particulate levels.,The new filter reduce particulate levels.,HARDENED,environment,controlled_rule,cue_removal,true,Synthetic; human review required.
+f9dccd6c5ed7,G010,The outage was probably caused by a faulty switch.,The outage was likely caused by a faulty switch.,PRESERVED,operations,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+8ad36d0f0fd6,G010,The outage was probably caused by a faulty switch.,The outage was caused by a faulty switch.,HARDENED,operations,controlled_rule,cue_removal,true,Synthetic; human review required.
+31f283cf663e,G011,The survey results could indicate a rise in demand.,The survey results might indicate a rise in demand.,PRESERVED,research,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+bebaa8391787,G011,The survey results could indicate a rise in demand.,The survey results indicate a rise in demand.,HARDENED,research,controlled_rule,cue_removal,true,Synthetic; human review required.
+0f5efcdfc282,G012,The coating appears to be damaged by prolonged exposure.,The coating seems to be damaged by prolonged exposure.,PRESERVED,materials,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+664f4e72d8d9,G012,The coating appears to be damaged by prolonged exposure.,The coating be damaged by prolonged exposure.,HARDENED,materials,controlled_rule,cue_removal,true,Synthetic; human review required.
+0ca415e0a55b,G013,The patch might improve startup time.,The patch may improve startup time.,PRESERVED,technology,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+69470ef997fe,G013,The patch might improve startup time.,The patch improve startup time.,HARDENED,technology,controlled_rule,cue_removal,true,Synthetic; human review required.
+c78c15b79477,G014,The delay was possibly related to network congestion.,The delay was related to network congestion.,HARDENED,networking,controlled_rule,cue_removal,true,Synthetic; human review required.
+7355a20936d7,G015,The medicine is likely to reduce fever within a day.,The medicine is probably to reduce fever within a day.,PRESERVED,health,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+8a29ab1ac81b,G015,The medicine is likely to reduce fever within a day.,The medicine is to reduce fever within a day.,HARDENED,health,controlled_rule,cue_removal,true,Synthetic; human review required.
+14bf59aa52d6,G016,The readings may indicate a leak in the pipe.,The readings might indicate a leak in the pipe.,PRESERVED,infrastructure,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+bbc2370da14a,G016,The readings may indicate a leak in the pipe.,The readings indicate a leak in the pipe.,HARDENED,infrastructure,controlled_rule,cue_removal,true,Synthetic; human review required.
+10d37719c9ff,G017,The software uses end-to-end encryption.,The software uses end-to-end encryption.,PRESERVED,technology,controlled_rule,identity,true,Synthetic; human review required.
+b3a543eb1a57,G018,The server failed at 14:03.,The server failed at 14:03.,PRESERVED,technology,controlled_rule,identity,true,Synthetic; human review required.
+25998dd88f6f,G019,The experiment confirmed a decrease in latency.,The experiment confirmed a decrease in latency.,PRESERVED,research,controlled_rule,identity,true,Synthetic; human review required.
+d8db57a0a46e,G020,The price increased by 12% in June.,The price increased by 12% in June.,PRESERVED,business,controlled_rule,identity,true,Synthetic; human review required.
+59740da5bbdb,G021,The sensor detected carbon monoxide.,The sensor detected carbon monoxide.,PRESERVED,safety,controlled_rule,identity,true,Synthetic; human review required.
+0ee79423f5c7,G022,The feature is available to all users.,The feature is available to all users.,PRESERVED,software,controlled_rule,identity,true,Synthetic; human review required.
+ebf43df9d499,G023,The test found a defect in the parser.,The test found a defect in the parser.,PRESERVED,software,controlled_rule,identity,true,Synthetic; human review required.
+ce18551f2809,G024,The aircraft landed at 09:42.,The aircraft landed at 09:42.,PRESERVED,aviation,controlled_rule,identity,true,Synthetic; human review required.
+65d1b5b7bb5f,G025,The valve may have failed during startup.,The valve might have failed during startup.,PRESERVED,operations,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+55a16e86067b,G025,The valve may have failed during startup.,The valve have failed during startup.,HARDENED,operations,controlled_rule,cue_removal,true,Synthetic; human review required.
+183e3b2bdd14,G026,The system did not overheat during the test.,The system did not overheat during the test.,PRESERVED,technology,controlled_rule,identity,true,Synthetic; human review required.
+ff1039f4d980,G027,Some users reported delays.,Some users reported delays.,PRESERVED,service,controlled_rule,identity,true,Synthetic; human review required.
+aede04223e7b,G028,The team may release the patch in June.,The team might release the patch in June.,PRESERVED,software,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+56b4231b6bf8,G028,The team may release the patch in June.,The team release the patch in June.,HARDENED,software,controlled_rule,cue_removal,true,Synthetic; human review required.
+35a6047d0a42,G029,The battery may lose capacity in cold weather.,The battery might lose capacity in cold weather.,PRESERVED,technology,controlled_rule,cue_paraphrase,true,Synthetic; human review required.
+fbd490dc56a7,G029,The battery may lose capacity in cold weather.,The battery lose capacity in cold weather.,HARDENED,technology,controlled_rule,cue_removal,true,Synthetic; human review required.
+324abd89d4e4,G030,The report is inconclusive about the cause of failure.,The report is inconclusive about the cause of failure.,PRESERVED,operations,controlled_rule,identity,true,Synthetic; human review required.

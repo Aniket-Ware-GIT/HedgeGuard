@@ -1,0 +1,36 @@
+{
+  "candidate_count": 165,
+  "machine_label_eligible_count": 0,
+  "exclude_count": 4,
+  "review_required_count": 161,
+  "rejected_count": 0,
+  "annotation_label_counts": {
+    "PRESERVED": 3,
+    "HARDENED": 0,
+    "SOFTENED": 1,
+    "EXCLUDE": 4
+  },
+  "eligible_class_distribution": {
+    "PRESERVED": 0,
+    "HARDENED": 0,
+    "SOFTENED": 0
+  },
+  "proposition_status_counts": {
+    "comparable": 4,
+    "non_comparable": 4,
+    "uncertain": 157
+  },
+  "certainty_annotation_count": 4,
+  "provenance_complete_count": 165,
+  "reason_counts": {
+    "certainty_label_direction_inconsistent": 2,
+    "detected_negation_difference": 12,
+    "detected_number_difference": 78,
+    "invalid_certainty_direction": 2,
+    "invalid_source_evidence": 2,
+    "llm_exclude": 4,
+    "llm_requires_review": 161,
+    "nonexact_or_missing_source_evidence": 2
+  },
+  "annotation_is_human_review": false
+}

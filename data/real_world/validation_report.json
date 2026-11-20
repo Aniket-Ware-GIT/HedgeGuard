@@ -1,0 +1,26 @@
+{
+  "candidate_count": 149,
+  "machine_label_eligible_count": 1,
+  "exclude_count": 7,
+  "review_required_count": 141,
+  "rejected_count": 0,
+  "eligible_class_distribution": {
+    "PRESERVED": 0,
+    "HARDENED": 0,
+    "SOFTENED": 1
+  },
+  "reason_counts": {
+    "certainty_label_direction_inconsistent": 14,
+    "detected_date_difference": 11,
+    "detected_negation_difference": 7,
+    "detected_number_difference": 68,
+    "llm_exclude": 7,
+    "llm_requires_review": 72,
+    "quality_dates_match_false": 12,
+    "quality_negation_match_false": 12,
+    "quality_numbers_match_false": 13,
+    "quality_subject_match_false": 7
+  },
+  "provenance_complete_count": 149,
+  "annotation_is_human_review": false
+}
